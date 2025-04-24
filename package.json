@@ -1,0 +1,13 @@
+{
+	"name": "com.game5mobile.projectfoldergenerator",
+	"version": "1.0.0",
+	"displayName": "Project Folder Generator",
+	"description": "Tool to generate Game5Mobile Unity standard foldering structure",
+	"unity": "2021.3",
+	"unityRelease": "4f1",
+	"author": {
+		"name": "Game5mobile",
+		"email": "info@game5mobile.com",
+		"url": "https://www.game5mobile.com"
+	}
+}
