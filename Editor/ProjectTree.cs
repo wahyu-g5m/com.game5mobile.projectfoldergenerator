@@ -6,7 +6,7 @@ namespace Tools.ProjectTreeGenerator.Editor
 {
     public class ProjectTree
     {
-        [MenuItem("Five/Project Folder/Generate")]
+        [MenuItem("Five/Project Folder/Setup")]
         public static void Execute()
         {
             var assets = GenerateFolderStructure();
